@@ -1,0 +1,68 @@
+Set10 Second Class 9
+
+• CLASS OBJECTIVES
+1. If and Else
+2. Tenary Operators
+
+IF and ELSE OVERVIEW.
+The if and else is a type of conditional statement that will execute a block of code when the condition in the if statement is truthy. If the condition is falsy, then the else block will be executed.
+
+Truthy and falsy values are converted to true or false in if statements.
+
+false
+0 (zero)
+-0 (negative zero)
+0n (BigInt zero)
+"", '', ```` (empty string)
+null
+undefined
+NaN (not a number)
+
+TENARY OPERATOR OVERVIEW.
+The ternary operator is a shorter way to perform conditional checks in JavaScript.
+
+*JAVASCRIPT ASSIGNMENT 1.*
+*If and Else* Questions
+
+*ALL Questions should be solved using if and else conditional statements javascript *
+
+1. **Spread Operator Task**: Spread the `students` array into a new array called `studentsCopy` using the spread operator.
+
+2. **Alice's Submission Status**: Write a program that checks if **Alice** has submitted her assignment. If she has, output "Alice has submitted her assignment". If not, output "Alice has not submitted her assignment".
+
+3. **Bob's Membership Privilege**: Write a program that checks if **Bob** has a "gold" or "platinum" membership. If he does, output "Bob has Priority Grading". If not, output "Bob has Standard Grading".
+
+4. **Charlie's Subject Recognition**: Write a program that checks the `submittedSubject` of **Charlie**. If the subject is "Math", output "Charlie is a Math Genius". If it is "Science", output "Charlie is a Science Star". Otherwise, output "Charlie, Keep Up the Good Work".
+
+5. **David's Membership Downgrade**: Write a program that checks if **David** hasn't submitted his assignment. If he hasn't, reduce his membership level by one tier (e.g., "gold" to "silver"). If he has, output "David has no penalty".
+
+6. **Eve's Extra Credit**: Write a program that checks if **Eve** submitted a "Math" assignment and has a "gold" or "platinum" membership. If both conditions are true, give Eve extra credit.
+
+7. **Frank's Science Fair Eligibility**: Write a program that checks if **Frank** submitted a "Science" assignment and if his membership is "silver" or higher. If both are true, Frank is eligible for the Science Fair.
+
+8. **Grace's Badge Reward**: Write a program that checks if **Grace** has submitted her assignment. If she has, reward her with a badge based on her membership level.
+
+9. **Heidi's Detailed Feedback**: Write a program that checks if **Heidi** submitted a "History" assignment. If she did, and her membership is "gold" or higher, provide her with a detailed feedback report.
+
+10. **Ivan's Membership Upgrade**: Write a program that checks if **Ivan** has a "bronze" membership and has submitted his assignment. If both conditions are true, upgrade his membership to "silver".
+
+11. **Judy's STEM Award**: Write a program that checks if **Judy** has submitted a "Science" or "Math" assignment and has a membership of at least "silver". If both conditions are true, award her a "STEM Excellence" certificate.
+
+
+
+*JAVASCRIPT ASSIGNMENT 2.*
+*Tenary Operator* Questions
+
+*ALL Questions should be solved using Tenary Operator conditional statements javascript*
+
+*ALL Console.Logs MUST be in String/Template Literals unless not Necessary for a specific question*
+
+1. **Check if there is a student with the name "Chinedu Okafor" and a score greater than 80. If so, log a message with the student's name and indicate that their score is "A". Otherwise, log a message saying no student with this name and score was found.**
+
+2. **Check if there is a student studying "English" with a score greater than 90. If so, log a message with the student's name and indicate that their score is "A". Otherwise, log a message saying no student studying English with this score was found.**
+
+3. **Check if there is a student with the name "Emeka Nwosu" or if there is any student with a score greater than 75. If "Emeka Nwosu" is found, log a message with their name and indicate that their score is "A". If not, but a student with a score greater than 75 is found, log a message indicating that this student's score is above 75. Otherwise, log a message saying no relevant student was found.**
+
+4. **Check if there is any student whose subject is "History" with a score greater than 85, or if any student has a score greater than 90. If a student with the "History" subject and score criteria is found, log a message with their name and indicate that their score is "A". If not, but a student with a score above 90 is found, log a message with their name and indicate that their score is above 90. Otherwise, log a message saying no relevant student was found.**
+
+5. **Check if there is a student with a score of exactly 95 or if the student's name is "Ifeanyi Eze". If "Ifeanyi Eze" is found, log a message with their name and indicate that their score is "A". If not, but a student with a score of exactly 95 is found, log a message with their name and indicate that their score is exactly 95. Otherwise, log a message saying no relevant student was found.**

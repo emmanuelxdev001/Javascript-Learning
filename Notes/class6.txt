@@ -1,0 +1,81 @@
+Set10 Second Class 6
+
+• CLASS OBJECTIVES
+1. Array Methods Definition = {Plain Array, HigherOrder}
+2. Plain Array Methods
+
+ARRAY METHODS OVERVIEW.
+
+Definition.
+    Array methods are built-in functions in programming languages that allow you to easily manipulate arrays, enabling you to perform operations like adding, removing, sorting, or modifying elements, as well as transforming the array into different formats.
+
+
+PLAIN ARRAY Methods.
+    Plain array methods perform simple, direct operations on arrays, such as adding or removing elements.
+
+1. push(element1, ..., elementN): Adds one or more elements to the end of an array and returns the new length of the array.
+
+2. pop(): Removes the last element from an array and returns that element.
+
+3. shift(): Removes the first element from an array and returns that element.
+
+4. unshift(element1, ..., elementN): Adds one or more elements to the front of an array and returns the new length of the array.
+
+5. concat(array2, ..., arrayN): Merges two or more arrays and returns a new array.
+
+6. join(separator): Joins all elements of an array into a string and 7. returns this string.
+
+8. slice(begin, end): Returns a shallow copy of a portion of an array into a new array object.
+
+9. splice(start, deleteCount, item1, ..., itemN): Changes the contents of an array by removing or replacing existing elements and/or adding new elements.
+
+10. indexOf(searchElement, fromIndex): Returns the first index at which a given element can be found in the array.
+
+10. lastIndexOf(searchElement, fromIndex): Returns the last index at which a given element can be found in the array.
+
+11. reverse(): Reverses an array in place.
+
+12. sort(compareFunction): Sorts the elements of an array in place and returns the array.
+
+13. fill(value, start, end): Fills all the elements of an array from a start index to an end index with a static value.
+
+14. copyWithin(target, start, end): Shallow copies part of an array to another location in the same array and returns it.
+
+
+Assignments.
+
+Certainly! Here are the revised questions without the code snippets:
+
+### Questions for Books Array
+
+1. **Complex String Joining**
+   - Join all the book titles into a single string, separated by commas. Then, remove the last book from the array, add a new book "War and Peace" to the beginning, and join all the titles into a single string, separated by semicolons.
+
+2. **Remove and Return First Book**
+   - Remove the first book from the array and return it. Next, add a new book "Pride and Prejudice" to the end, and then remove the first book again and return it.
+
+3. **Add to Beginning and Remove First**
+   - Add a new book "Pride and Prejudice" to the beginning, then add "War and Peace" to the beginning, and finally remove the first book and return it.
+
+4. **Add to End and Modify**
+   - Add a new book "War and Peace" to the end of the array, then remove the first book, and finally join all remaining book titles into a single string, separated by commas.
+
+5. **Remove and Add Books**
+   - Remove the last book from the array and return it. Then, add "Pride and Prejudice" to the beginning and "War and Peace" to the end.
+
+ Questions for Nested Array of Objects
+
+### Question 1
+Access and print out "Brave New World", then add "The Man That Knew Infinity" to the "Science" section, and combine the "Fiction" and "Science" sections into a new array. Print the final combined array.
+
+### Question 2
+Remove the last book from the "Non-Fiction" section, add "Silent Spring" to the beginning of the "Non-Fiction" section, and then combine the "Non-Fiction" section with the "Fiction" section. Print the final combined array.
+
+### Question 3
+Add "To Kill a Mockingbird" to the end of the "Fiction" section, remove the first book from the "Science" section, and then combine the "Fiction" section with the "Science" section. Print the final combined array.
+
+### Question 4
+Remove "Cosmos" from the "Science" section, add "The Gene" to the beginning of the "Science" section, and then combine the "Science" section with the "Non-Fiction" section. Print the final combined array.
+
+### Question 5
+Add "The Great Gatsby" to the "Fiction" section, remove "Sapiens" from the "Non-Fiction" section, and then combine the "Fiction" and "Non-Fiction" sections into a new array. Print the final combined array.

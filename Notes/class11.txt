@@ -1,0 +1,121 @@
+Set10 Second Class 11
+
+• CLASS OBJECTIVES
+1. Function Definition
+2. Regular/Named Function, Arrow Functions, Anonymous functions, Constructor Functions, Higher Order Function
+3. Global and Local Scope
+4. Closure
+
+FUNCTIONS OVERVIEW.
+
+Regular Functions (Named Functions)
+Definition: A regular function in JavaScript is a function that has a name associated with it. This name can be used to call the function elsewhere in your code.
+
+Anonymous Functions
+Definition: An anonymous function is a function that does not have a name. It is typically used in situations where a function is needed only once, or as a function expression.
+
+Constructor Functions
+Definition: Functions used to create objects. They are invoked using the new keyword and are typically named with an uppercase first letter.
+
+Higher-Order Functions
+Definition: Functions that take other functions as arguments or return a function as a result.
+
+SCOPES OVERVIEW
+
+In JavaScript, scope refers to the context in which variables and functions are accessible. Understanding the difference between global and local scope is crucial for controlling the visibility and lifetime of variables in your code.
+
+Global Scope
+Definition: Variables or functions defined in the global scope are accessible from anywhere in the code. They are typically declared outside of any function or block.
+Global Variables: These are variables declared outside of any function or block, making them accessible globally.
+
+Local Scope
+Definition: Variables defined within a function (or block, when using let or const) are in the local scope and are only accessible within that function or block.
+Function Scope: Variables declared inside a function are local to that function and cannot be accessed outside of it.
+
+Global vs. Local Scope Summary
+Global Scope: Accessible from anywhere in the code. Variables declared with var outside functions or blocks are global.
+
+Local Scope: Accessible only within the function or block where the variable is declared. Variables declared with let or const are block-scoped, while var within a function is function-scoped.
+
+CLOSURE OVERVIEW
+
+A closure in JavaScript is a powerful concept that allows a function to access variables from its outer (enclosing) function even after the outer function has finished executing. Closures are created whenever a function is defined inside another function and the inner function accesses variables from the outer function.
+
+Why Closures Are Useful
+Data Privacy: Closures allow you to create private variables that can't be accessed directly from outside the function.
+Stateful Functions: They help in maintaining state between function calls, as seen in the counter example.
+Callbacks: Closures are often used in callbacks and event handlers where you want to maintain context or state.
+
+*JAVASCRIPT ASSIGNMENT*
+
+*1. Create a function named filterOdds that takes an array of numbers as an argument and returns a new array that contains only the even numbers. Make it Dynamic*
+
+*2. Create a function called containsElement that takes an array and a value as arguments and returns true if the array contains the value, otherwise returns false. Make it Dynamic*
+
+*3. Create a function called reverseArray that takes an array as an argument and returns a new array with the elements in reverse order. Make it Dynamic*
+
+*4. Create a function called isEven that takes a single number as an argument and returns true if the number is even, and false if the number is odd. it should also return the number.  Make it Dynamic*
+
+*5. Write a function named filterOdds that takes an array of numbers as an argument and returns a new array that contains only the odd numbers. Make it Dynamic*
+
+*6. Write a function called isPalindrome that takes a string as an argument and returns true if the string is a palindrome, and false otherwise. A palindrome is a word that reads the same backward as forward examples are madam,racecar,rotor etc. Make it Dynamic*
+
+*7.Write a function called login that takes two arguments: username and password. The function should check if the provided username and password match predefined values. If they do, the function should return "Login successful!". Otherwise, it should return "Login failed!". Make sure username and password verification are done first. Make it Dynamic*
+
+*8. Create a function called generatePassword that generates a random password of a given length (The length should be dynamic so it'll create a password based on the length i passed). The password should consist of random letters and numbers (both uppercase and lowercase) and digits. Make it Dynamic (To solve this create two variables, one holds Abcd to Z the other holds numbers) Make it Dynamic*
+
+*9. Write a function called assignHouse that takes a student's name as an argument and assigns them randomly to one of four color houses: "Red House", "Blue House", "Green House", or "Yellow House". The function should return the assigned house along with the student's name.*
+
+*10. Create a function called generateEmployeeDetails that takes two arguments: name and company. The function should:
+Generate a unique ID for the employee consisting of 4 random digits.
+Create a company email address in the format name@company.com.
+Assign a random role from an array of roles: "Manager", "Developer", "Human Resource", "Personnel", "Secetary", "Supervisor".
+Convert the name to Propercase, where the first letter is capitalized and the rest are lowercase.
+Return an object containing the employee's id, email, role, and name. Make it Dynamic*
+
+
+JAVASCRIPT ASSIGNMENT 2
+
+1. const people = [
+  { name: 'Alice', hobbies: ['Reading', 'Swimming', 'Hiking'] },
+  { name: 'Bob', hobbies: ['Cycling', 'Movies', 'Gaming'] },
+  { name: 'Charlie', hobbies: ['Writing', 'Chess', 'Dancing'] }
+];
+
+Question: You have an array of people objects, each containing an array of hobbies. Write a function that returns a random person along with one of their hobbies.
+
+
+2. const products = {
+  electronics: ['Laptop', 'Phone', 'Tablet'],
+  clothing: ['Shirt', 'Pants', 'Jacket'],
+  groceries: ['Milk', 'Eggs', 'Bread']
+};
+
+Question: You have an object where each key is a product category, and the value is an array of product names. Write a function that randomly selects one product from a random category.
+
+
+3. const employees = [
+  { name: 'John', tasks: ['Meeting', 'Coding', 'Review'] },
+  { name: 'Sarah', tasks: ['Design', 'Testing', 'Report'] },
+  { name: 'David', tasks: ['Analysis', 'Documentation', 'Planning'] }
+];
+
+Question: You have an array of employees, and each employee has an array of tasks assigned to them. Write a function that randomly selects an employee and one of their tasks.
+
+
+4. const foodCategories = [
+  { category: 'Fruit', items: ['Apple', 'Banana', 'Grapes'] },
+  { category: 'Vegetables', items: ['Carrot', 'Broccoli', 'Spinach'] },
+  { category: 'Dairy', items: ['Milk', 'Cheese', 'Yogurt'] }
+];
+
+Question: You have an array of objects, where each object represents a category of food items. Write a function that randomly selects a food category and a random food item within that category.
+
+
+5. const classes = {
+  math: ['Alice', 'Bob', 'Charlie'],
+  science: ['David', 'Eve', 'Frank'],
+  history: ['Grace', 'Hannah', 'Isaac']
+};
+
+Question: You have an object where each key is a class and the value is an array of students in that class. Write a function that randomly picks a class and a random student from that class.

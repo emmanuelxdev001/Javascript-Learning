@@ -1,0 +1,58 @@
+Set10 Second Class 8
+
+• CLASS OBJECTIVES
+1. Template Literals
+2. Spread Operator
+
+TEMPLATE LITERALS OVERVIEW.
+Template literals are a feature in JavaScript that allow for easier string creation, including embedding expressions and multi-line strings. They are enclosed by backticks (`) instead of the traditional single (') or double (") quotes.
+Embed expressions within a string using ${expression} syntax.
+
+
+SPREAD OPERATOR Operator OVERVIEW.
+
+The spread operator (...) in JavaScript allows an iterable (like an array or object) to be expanded 
+
+Copying Arrays/Objects: Create a shallow copy of an array or object.
+
+Merging Arrays/Objects: Combine multiple arrays or objects into one.
+
+Expanding Arrays: Pass elements of an array as individual arguments to a function.
+
+Adding/Modifying Properties: Add or modify properties in an object when copying.
+
+*JS ASSIGNMENT*
+
+1. *Using the JavaScript spread operator, create a duplicate of the `company` array of objects. Use this duplicate to attempt the rest of the questions.*
+
+2. *print out on the console the names of all managers across all companies, concatenated into a single string.*
+
+3. *calculate and print out the total number of staff members across all departments and companies.*
+
+4. *print out on the console the first department where any staff member holds the position "Strategist".*
+
+5. *print out on the console whether all departments in "Creative Solutions LLC" have managers whose names contain the word "Green"*
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is the updated list with questions 2 and 6 removed and the remaining questions renumbered:
+
+1. **Using the JavaScript spread operator, create a duplicate of the `company` array of objects. Use this duplicate to attempt the rest of the questions.**
+
+2. **Using the JavaScript `flatMap` and `map` array methods, print out on the console the names of all managers across all companies, concatenated into a single string.**
+
+3. **Using the JavaScript `map` and `reduce` array methods, calculate and print out the total number of staff members across all departments and companies.**
+
+4. **Using the JavaScript `filter`, `some`, and `find` array methods, print out on the console the first department where any staff member holds the position "Strategist".**
+
+5. **Using the JavaScript `map`, `filter`, and `every` array methods, print out on the console whether all departments in "Creative Solutions LLC" have managers whose names contain the word "Green".**

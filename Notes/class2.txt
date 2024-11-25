@@ -1,0 +1,76 @@
+Set10 Second Class 2
+
+• CLASS OBJECTIVES
+1. Command Prompt = [Creating Folders, Deleting Folders, Creating Files, Deleting Files, Navigating Through Folders, Opening Vscode, Crashing terminals, Starting terminals], [New-Item, Remove-Item, touch, rm]
+2. Naming Conventions in Javascript 
+3. Naming Conventions with var
+4. Naming Conventions with let
+5. Naming Conventions with const
+6. Keywords in Javascript
+7. Non-Primitive Datatypes = [Object, Arrays]
+
+
+• ASSIGNMENT
+1. Create an object named school with the following properties:
+
+name: A string representing the name of the school.
+address: A string representing the address of the school.
+yearEstablished: A number representing the year the school was established.
+Add a nested object named principal to the school object. The principal object should have the following properties:
+
+name: A string representing the principal's name.
+office: An object representing the principal's office.
+Inside the office object, add the following properties:
+
+roomNumber: A number representing the room number of the office.
+building: An object representing the building where the office is located.
+Inside the building object, add the following properties:
+
+name: A string representing the name of the building.
+facilities: An object representing the facilities available in the building.
+Inside the facilities object, add the following properties:
+
+library: An object representing the library in the building.
+Inside the library object, add the following properties:
+
+name: A string representing the name of the library.
+hours: An object representing the operating hours of the library.
+Inside the hours object, add the following properties:
+
+opening: A string representing the opening time of the library.
+closing: A string representing the closing time of the library.
+
+2.  A. Print the entire school object to the console.
+
+    B. Access and print the name property of the school object using bracket  notation.
+
+    C. Access and print the address property of the school object using bracket notation.
+
+    D. Access and print the yearEstablished property of the school object using dot notation.
+
+    E. Access and print the name property of the principal object using  dot notation.
+
+    F. Access and print the roomNumber property of the office object    using dot notation.
+
+    G. Access and print the name property of the building object using dot notation.
+
+    H. Access and print the name property of the library object using dot notation.
+
+    I. Access and print the opening property of the hours object using dot notation.
+
+2. Create an Array
+
+    Create an array of 10 of your favorite Fruits.
+    Add an object inside the array with (favouriteArtiste and FavouriteSong)
+    Access and print the first fruit in the array.
+    Access and print the third fruit in the array.
+    Access and print the eighth fruit in the array.
+    Access and print the last fruit in the array.
+    Access and print the last favouriteArtiste in the array.
+    Access and print the last FavouriteSong in the array.
+
+
+4. Keywords
+
+    Create an account on meduium.com
+    Prepare a simple article on 20 Javascript Keywords and their Uses or Meaning.

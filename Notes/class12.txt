@@ -1,0 +1,75 @@
+Set10 Second Class 11
+
+• CLASS OBJECTIVES
+1. Introduction to Typescript 
+2. Class Definition 
+3. examples
+4. Prompt-Sync
+
+CLASS OVERVIEW.
+
+Defining a Class
+
+A class is defined using the class keyword, followed by the name of the class. The body of the class contains the constructor and methods.
+
+Notes:
+
+The constructor is a special method used to initialize object properties.
+Methods defined inside a class do not require the function keyword.
+The new keyword is used to create instances of the class.
+
+Class Inheritance
+
+Classes can inherit properties and methods from another class using the extends keyword. This is essential for reusing code across multiple classes.
+
+Notes:
+The super keyword is used to call the parent class’s constructor and methods.
+Inheritance allows child classes to reuse code from the parent class while adding new functionality.
+
+
+Static Methods
+
+Static methods are called on the class itself, not on instances of the class. They are defined using the static keyword.
+
+Notes:
+Static methods are useful for utility functions that are related to a class but not tied to any particular instance.
+
+Getters and Setters
+
+Getters and setters allow you to define methods that behave like properties. They are useful for controlling access to an object’s properties.
+
+Notes:
+Use get and set to define custom behaviors when getting or setting a property.
+This pattern helps in adding logic (e.g., validation) to properties of objects.
+
+Private Fields (ES2022)
+
+Private fields are accessible only within the class they are defined in, providing true encapsulation.
+
+Notes:
+Private fields are prefixed with #.
+They ensure that sensitive data is not accessed or modified outside of the class.
+
+Summary of Key Points:
+
+Classes provide a structured way to create objects in JavaScript.
+
+The constructor method initializes an object’s properties.
+
+Inheritance is achieved using the extends keyword, allowing for code reuse.
+
+Static methods are used for functionality that belongs to the class, not an instance.
+
+Getters and setters allow controlled access to properties.
+
+Private fields ensure encapsulation by restricting access to class internals.
+
+Final Notes for Students:
+
+Classes in JavaScript make it easier to organize code and reuse functionality through inheritance.
+
+While classes might look like a feature from traditional OOP languages, under the hood, JavaScript still uses prototypes.
+
+
+*ASSIGNMENT*
+

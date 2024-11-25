@@ -1,0 +1,48 @@
+Set10 Second Class 10
+
+• CLASS OBJECTIVES
+1. Mathematical Operators
+2. Mathematical Methods
+
+MATHEMATICAL OPERATORS OVERVIEW.
+The Mathematical Operators and Methods in Javascript
+
+*JAVASCRIPT ASSIGNMENT 3.*
+*Maths Operators* Questions
+
+*ALL Questions should be solved using Math methods javascript *
+
+**1. Check if a number is an integer.**
+
+   - Write a function named `checkIfInteger` that takes a single argument and returns `true` if the argument is an integer and `false` otherwise.
+   - Test this function with the following variables:
+     - `userScore = 12.345`
+     - `totalAmount = 78.9`
+     - `discountRate = 0.123`
+   - Report the results for each variable.
+
+**2. Use `toFixed` to format a number.**
+
+   - Use the `toFixed()` method to format the variable `userScore` to 2 decimal places.
+   - Print or display the formatted result.
+
+**3. Convert a number to a string using `toString()`.**
+
+   - Convert the variable `totalAmount` to a string using the `toString()` method.
+   - Print or display the result.
+
+**4. Parse a string to a float using `parseFloat()`.**
+
+   - Extract the numeric value from the string `priceTag`, which is "Value: 45.67", and convert it to a float using `parseFloat()`.
+   - Print or display the result.
+
+**5. Parse a string to an integer using `parseInt()`.**
+
+   - Extract the integer value from the string `fruitInventory`, which is "Amount: 123 apples", and convert it to an integer using `parseInt()`.
+   - Print or display the result.
+
+**6. Perform arithmetic operations and format results.**
+
+   - Add `userScore` and `discountRate`, then format the result to 3 decimal places.
+   - Subtract `discountRate` from `totalAmount`, then format the result to 1 decimal place.
+   - Print or display both results.

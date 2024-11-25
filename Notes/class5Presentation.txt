@@ -1,0 +1,175 @@
+Set10 Class 5. JavaScript Object Presentation And String Methods Presentation
+
+OBJECTIVES
+1. JavaScript Object Presentation
+
+
+Group A.
+15 questions for the libraryAPI:
+
+Access and print on the console the title of the first book in the books array.
+
+Access and print on the console the name of the author of "To Kill a Mockingbird".
+
+Access and print on the console the nationality of the author of the book "1984".
+
+Access and print on the console the genres of "To Kill a Mockingbird".
+
+Access and print on the console the rating given by John Doe for "To Kill a Mockingbird".
+
+Access and print on the console the comment made by Jane Smith on "To Kill a Mockingbird".
+
+Access and print on the console the title of the second book in the books array.
+
+Access and print on the console the genres of the book "1984".
+
+Access and print on the console the reviewer of the first review of "1984".
+
+Access and print on the console the comment of the first review of "1984".
+
+Access and print on the console the nationality of Harper Lee.
+
+Access and print on the console the name of the second reviewer of "To Kill a Mockingbird".
+
+Access and print on the console the genres of the first book in the books array.
+
+Access and print on the console the name of the author of "1984".
+
+Access and print on the console the rating given by Alice Brown for "1984".
+
+
+Group B
+15 questions based on the movieAPI:
+Access and print on the console the title of the first movie in the movies array.
+
+Access and print on the console all the genres of "Inception".
+
+Access and print on the console the role of Leonardo DiCaprio in "Inception".
+
+Access and print on the console the title of the second movie in the movies array.
+
+Access and print on the console the name of the actor who played Arthur in "Inception".
+
+Access and print on the console the second genre of "The Matrix".
+
+Access and print on the console the name of the actor who played Neo in "The Matrix".
+
+Access and print on the console the name of the second actor in the cast of "The Matrix".
+
+Access and print on the console the role of Laurence Fishburne in "The Matrix".
+
+Access and print on the console all the genres of the movie "Inception".
+
+Access and print on the console the name of the first actor in the cast of "The Matrix".
+
+Access and print on the console the role of Joseph Gordon-Levitt in "Inception".
+
+Access and print on the console the title of the movie where the character Morpheus appears.
+
+Access and print on the console all the cast members of "The Matrix".
+
+Access and print on the console the name of the character played by Keanu Reeves in "The Matrix".
+
+
+Group C
+15 questions based on the restaurantAPI:
+
+Access and print on the console the name of the first restaurant in the restaurants array.
+
+Access and print on the console the cuisine type of "The Gourmet Kitchen".
+
+Access and print on the console all the ingredients of the dish "Spaghetti Carbonara".
+
+Access and print on the console the price of "Margherita Pizza".
+
+Access and print on the console the name of the second dish in the menu of "The Gourmet Kitchen".
+
+Access and print on the console the price of "California Roll".
+
+Access and print on the console all the ingredients of the dish "Tempura Udon".
+
+Access and print on the console the name of the first dish in the menu of "Sushi World".
+
+Access and print on the console the cuisine type of the second restaurant in the restaurants array.
+
+Access and print on the console the price of "Tempura Udon".
+
+Access and print on the console all the dishes in the menu of "The Gourmet Kitchen".
+
+Access and print on the console the name of the dish with the price 8.99.
+
+Access and print on the console the first ingredient of "California Roll".
+
+Access and print on the console the name of the restaurant that serves "Margherita Pizza".
+
+Access and print on the console the second ingredient of "Tempura Udon".
+
+
+Group D
+15 questions based on the travelAPI:
+
+Access and print on the console the name of the first location in the destinations array.
+
+Access and print on the console all popular attractions in Paris.
+
+Access and print on the console the duration of the "Romantic Getaway" tour in Paris.
+
+Access and print on the console the price of the "City Highlights" tour.
+
+Access and print on the console the name of the first tour in the tours array of Tokyo.
+
+Access and print on the console all popular attractions in Tokyo.
+
+Access and print on the console the price of the "Cultural Experience" tour in Tokyo.
+
+Access and print on the console the duration of the "Food Adventure" tour in Tokyo.
+
+Access and print on the console the name of the second location in the destinations array.
+
+Access and print on the console the duration of the "City Highlights" tour.
+
+Access and print on the console the name of the tour that costs 600.
+
+Access and print on the console all tours available in Paris.
+
+Access and print on the console the popular attraction listed second for Tokyo.
+
+Access and print on the console the price of the "Romantic Getaway" tour.
+
+Access and print on the console the name of the tour with a duration of "4 days" in Tokyo.
+
+Group E
+15 questions based on the musicAPI:
+
+1. Access and print on the console the title of the first album in the albums array.
+
+2. Access and print on the console the name of the artist of the album "Thriller".
+
+3. Access and print on the console the nationality of the artist of the album "Superstar".
+
+4. Access and print on the console all genres of the album "Thriller".
+
+5. Access and print on the console the duration of the track "Beat It".
+
+6. Access and print on the console the name of the artist of the album "Superstar".
+
+7. Access and print on the console the title of the second album in the albums array.
+
+8. Access and print on the console the genres of the album "Superstar".
+
+9. Access and print on the console the name of the first track in the album "Thriller".
+
+10. Access and print on the console the duration of the track "Pakurumo".
+
+11. Access and print on the console the second genre of the album "Thriller".
+
+12. Access and print on the console the nationality of Michael Jackson.
+
+13. Access and print on the console the name of the second track in the album "Superstar".
+
+14. Access and print on the console the duration of the track "Billie Jean".
+
+15. Access and print on the console all tracks of the album "Superstar".
+
+
+STRING METHODS PRESENTATION QUESTIONS

@@ -1,0 +1,220 @@
+Set10 Class 5. JavaScript Object Presentation And String Methods Presentation
+
+OBJECTIVES
+1. String Methods Presentation
+
+
+STRING METHODS PRESENTATION QUESTIONS
+
+GROUP A libraryAPI Assignment Questions:
+
+Question 1:
+Access the title of the first book, and then
+Convert it to uppercase, and then
+Extract the first 10 characters.
+
+Question 2:
+Access the author's name of the second book, and then
+Convert it to lowercase, and then
+Replace the space with a hyphen which is "&".
+
+Question 3:
+Access the nationality of the first book's author, and then
+Replace "American" with "US", and then
+Convert it to uppercase, and then
+Pad the string to a total length of 10 with asterisks (*) at the end.
+
+Question 4:
+Access the comment of the first review of the second book, and then
+Trim any white spaces, and then
+Check if it includes the word "Impactful", and then
+Print the first character using charAt.
+
+Question 5:
+Access the title of the second book, and then
+Extract the first 4 characters, and then
+Convert them to uppercase, and then
+Concatenate the result with " - A Dystopian Novel".
+
+Question 6:
+Access the reviewer's name of the second review of the first book, and then
+Convert it to uppercase, and then
+Extract the last 4 characters, and then
+Concatenate it with the string "REV".
+
+Question 7:
+Access the title of the second book, and then
+Repeat it 3 times, and then
+Replace all instances of "1984" with "Nineteen Eighty-Four", and then
+Slice the string to get the first 40 characters.
+These instructions clearly break down each task into sequential steps using "and then" for clarity.
+
+
+
+GROUP B movieAPI Assignment Questions: Assignment Questions:
+
+1. **Question 1:**
+   - Access the title of the first movie, and then
+   - Convert it to uppercase, and then
+   - Extract the first 7 characters.
+
+2. **Question 2:**
+   - Access the name of the first cast member of the first movie, and then
+   - Convert it to lowercase, and then
+   - Replace the space with an underscore.
+
+3. **Question 3:**
+   - Access the role of the second cast member of the second movie, and then
+   - Replace "Morpheus" with "The Mentor", and then
+   - Convert it to uppercase, and then
+   - Pad the string to a total length of 15 with exclamation marks (!) at the end.
+
+4. **Question 4:**
+   - Access the title of the second movie, and then
+   - Repeat it 2 times, and then
+   - Replace all instances of "The" with "A", and then
+   - Slice the string to get the first 20 characters.
+
+5. **Question 5:**
+   - Access the role of the first cast member of the first movie, and then
+   - Convert it to uppercase, and then
+   - Extract the last 4 characters.
+
+6. **Question 6:**
+   - Access the name of the second cast member of the first movie, and then
+   - Trim any white spaces, and then
+   - Check if it includes the word "Gordon", and then
+   - Print the first character using `charAt`.
+
+7. **Question 7:**
+   - Access the title of the second movie, and then
+   - Extract the first 3 characters, and then
+   - Convert them to uppercase, and then
+   - Concatenate the result with " - A Sci-Fi Classic".
+
+
+
+GROUP C restaurantAPI  Assignment Questions:
+
+1. **Question 1:**
+   - Access the name of the first restaurant, and then
+   - Convert it to uppercase, and then
+   - Extract the first 10 characters.
+
+2. **Question 2:**
+   - Access the cuisine type of the second restaurant, and then
+   - Convert it to lowercase, and then
+   - Replace "japanese" with "asian".
+
+3. **Question 3:**
+   - Access the dish name of the first menu item of the first restaurant, and then
+   - Replace "Carbonara" with "Bolognese", and then
+   - Convert it to uppercase, and then
+   - Pad the string to a total length of 25 with asterisks (*) at the end.
+
+4. **Question 4:**
+   - Access the dish name of the second menu item of the second restaurant, and then
+   - Repeat it 2 times, and then
+   - Replace all instances of "Udon" with "Noodles", and then
+   - Slice the string to get the first 30 characters.
+
+5. **Question 5:**
+   - Access the name of the first restaurant, and then
+   - Extract the first 5 characters, and then
+   - Convert them to uppercase, and then
+   - Concatenate the result with " - Fine Dining".
+
+6. **Question 6:**
+   - Access the dish name of the second menu item of the first restaurant, and then
+   - Convert it to uppercase, and then
+   - Extract the last 6 characters.
+
+7. **Question 7:**
+   - Access the name of the second restaurant, and then
+   - Trim any white spaces, and then
+   - Check if it includes the word "Sushi", and then
+   - Print the first character using charAt.
+
+
+GROUP D travelAPI Assignment Questions:
+
+1. **Question 1:**
+   - Access the location name of the first destination, and then
+   - Convert it to uppercase, and then
+   - Extract the first 5 characters.
+
+2. **Question 2:**
+   - Access the tour name of the second tour of the first destination, and then
+   - Replace "Romantic Getaway" with "Luxury Escape", and then
+   - Convert it to lowercase.
+
+3. **Question 3:**
+   - Access the duration of the first tour of the second destination, and then
+   - Extract the first 2 characters, and then
+   - Convert them to uppercase, and then
+   - Pad the string to a total length of 10 with periods (.) at the end.
+
+4. **Question 4:**
+   - Access the location name of the second destination, and then
+   - Repeat it 3 times, and then
+   - Replace all instances of "Tokyo" with "The Capital City", and then
+   - Slice the string to get the first 40 characters.
+
+5. **Question 5:**
+   - Access the tour name of the first tour of the first destination, and then
+   - Convert it to uppercase, and then
+   - Extract the last 8 characters.
+
+6. **Question 6:**
+   - Access the location name of the first destination, and then
+   - Trim any white spaces, and then
+   - Check if it includes the word "Paris", and then
+   - Print the last character using `charAt`.
+
+7. **Question 7:**
+   - Access the price of the second tour of the second destination, and then
+   - Convert it to a string, and then
+   - Concatenate it with " USD", and then
+   - Replace any comma with a period.
+
+
+GROUP E musicAPI Assignment Questions:
+
+1. **Question 1:**
+   - Access the title of the first album, and then
+   - Convert it to uppercase, and then
+   - Extract the first 7 characters.
+
+2. **Question 2:**
+   - Access the name of the artist of the second album, and then
+   - Convert it to lowercase, and then
+   - Replace "wizkid" with "starboy".
+
+3. **Question 3:**
+   - Access the duration of the first track of the second album, and then
+   - Extract the minutes part (first 2 characters), and then
+   - Convert it to uppercase, and then
+   - Pad the string to a total length of 5 with zeroes (0) at the end.
+
+4. **Question 4:**
+   - Access the title of the second album, and then
+   - Repeat it 2 times, and then
+   - Replace all instances of "Superstar" with "Hit Maker", and then
+   - Slice the string to get the first 30 characters.
+
+5. **Question 5:**
+   - Access the track name of the second track of the first album, and then
+   - Convert it to uppercase, and then
+   - Extract the last 5 characters.
+
+6. **Question 6:**
+   - Access the name of the artist of the first album, and then
+   - Trim any white spaces, and then
+   - Check if it includes the word "Michael", and then
+   - Print the last character using charAt.
+
+7. **Question 7:**
+   - Access the duration of the second track of the second album, and then
+   - Convert it to a string, and then
+   - Concatenate it with " - Duration", and then
+   - Replace the colon (:) with a dash (-).

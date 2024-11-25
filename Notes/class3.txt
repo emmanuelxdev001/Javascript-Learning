@@ -1,0 +1,51 @@
+Set10 Second Class 3
+
+• CLASS OBJECTIVES
+1. Introduction to Arrays
+2. Targeting Elements inside Arrays.
+
+
+• ASSIGNMENT
+
+1. Medium Article:
+
+Task: Create an account on Medium.com if you don't already have one.
+Write an Article: Publish an article explaining JavaScript keywords. Describe what each keyword is used for and how it functions in JavaScript code. Be sure to provide examples and explain what each example achieves.
+Due Date: Today Sunday, 2 AM (midnight).
+
+2. Code Practice:
+
+Task: Reproduce and practice the array.js code we wrote in class. You should punch (type) the code 10 times as practice.
+Submission: Submit your final array.js file with the practiced code by the same deadline.
+Due Date: Sunday, 2 AM (midnight). 
+Submission Instructions:
+
+For the Medium article, provide the link to your published article in your submission.
+For the array.js file, upload the image on the group and tag me with your information as usual
+
+3. Create an Array
+
+1.Access and print the last fruit in the array.
+
+2.Access and print the favoriteArtist in the array.
+
+3.Access and print the favoriteSong in the array.
+
+4.Access and print the user's name.
+
+5.Access and print the user's email.
+
+6.Access and print the user's age.
+
+7.Access and print the user's favorite color.
+
+8.Access and print if the user is active.
+
+9.Access and print the duration of the first song in the "Chill Vibes" playlist.
+
+10.Access and print if the second song in the "Chill Vibes" playlist is a favorite.
+
+11.Access and print the name of the second playlist.
+
+12.Access and print the title of the second song in the "Workout Mix" playlist.
+

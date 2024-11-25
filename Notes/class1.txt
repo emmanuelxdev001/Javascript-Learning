@@ -1,0 +1,24 @@
+Set10 First Class 1
+
+• SETTING UP WORKSTATION JAVASCRIPT SERVER SIDE INSTALLATIONS
+1. Download Node Lts
+2. Download Vscode
+3. npm init --y
+4. npm i nodemon 
+5. "start": "nodemon String.js" inside my package json
+
+• CLASS OBJECTIVES
+1. What is Javascript
+2. Datatypes 
+3. Primitive Datatypes = [String, Boolean, Number, Undefined, Null]
+4. Variable Declaration = = [var, let, and const]
+5. Declarators That can Redeclare
+6. Declarators That can Reassign
+7. Declarators That stays Constant
+
+• ASSIGNMENT
+1. Write an essay about yourself. Declare Variable for every aspect of yourself, use Declarators [var, let, and const], use all the Primitive Datatypes [String, Boolean, Number, Undefined, Null], not less than 25 lines
+
+
+Keywords in JAVASCRIPT
+break, case, catch, class, const, continue, debugger, default, delete, do, else, export, extends, false, finally, for, function, if, import, in, instanceof, new, null, return, super, switch, this, throw, true, try, typeof, var, void, while, with, yield
